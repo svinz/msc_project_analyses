@@ -1,0 +1,10 @@
+asn1tools
+eland==7.14.1b1
+pandas
+geopandas
+elasticsearch==7.16.1
+numpy 
+plotly
+ipykernel
+kaleido
+tabulate

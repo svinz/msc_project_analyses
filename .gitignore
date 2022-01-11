@@ -1,0 +1,8 @@
+.vscode/*
+.venv/
+venv
+iframe_figures/*
+exports/*
+__pycache__/*
+*.pyc
+plots/*
